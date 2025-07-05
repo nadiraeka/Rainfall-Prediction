@@ -19,9 +19,9 @@ This project aims to develop a **Rainfall Prediction System** using multiple mac
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6efee9cd-48ee-451e-9fab-ad24035463b9" height="300" style="display:inline-block; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/bbf9b8d5-24da-4cfb-b197-26193bacc72a" height="300" style="display:inline-block; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/5f6425ca-65de-4402-aabc-0d1dbbff4fa3" height="300" style="display:inline-block; margin: 5px;" /><br/>
-  <img src="https://github.com/user-attachments/assets/ff38c2d3-98ce-4944-bb4f-09938df4a7a6" height="300" style="display:inline-block; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/a9bc9581-56ee-43e0-846e-ab6bb56f753f" height="300" style="display:inline-block; margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/6efee9cd-48ee-451e-9fab-ad24035463b9" width="400" />
+  <img src="https://github.com/user-attachments/assets/bbf9b8d5-24da-4cfb-b197-26193bacc72a" width="400" />
+  <img src="https://github.com/user-attachments/assets/5f6425ca-65de-4402-aabc-0d1dbbff4fa3" width="400" />
+  <img src="https://github.com/user-attachments/assets/ff38c2d3-98ce-4944-bb4f-09938df4a7a6" width="400" />
+  <img src="https://github.com/user-attachments/assets/a9bc9581-56ee-43e0-846e-ab6bb56f753f" width="400" />
 </div>
